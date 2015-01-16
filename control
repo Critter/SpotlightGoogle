@@ -1,0 +1,9 @@
+Package: com.vasuchawla.SpotlightGoogle
+Name: SpotlightGoogle
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Now, its more easy to search from within spotlight, just type "g iphone" to search for "iphone". Similarly "w iphone" to search for "iphone" on Wikipedia. Configurable from settings.
+Maintainer: Vasu Chawla
+Author: Vasu Chawla
+Section: Tweaks
